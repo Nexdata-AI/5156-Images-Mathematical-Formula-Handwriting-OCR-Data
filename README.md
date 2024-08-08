@@ -3,7 +3,7 @@
 ## Description
 5,156 Images - Mathematical Formula Handwriting OCR Data. The writing envirenment includes A4 paper, square paper, lined paper, white board, etc. The data diversity includes multiple writing papers, multiple types of mathematical formulas, multiple photographic angles. The collecting angeles are looking up angleand eye-level angle. The dataset can be used for tasks such as mathematical formula handwriting OCR.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1323?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1323?source=Github
 
 
 ## Data size
